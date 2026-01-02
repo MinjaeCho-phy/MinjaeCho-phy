@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Minjae Cho
 
-🔭 **Cosmology Researcher | Bayesian Data Analysis**  
+🔭 **Graduate Researcher in Cosmology**  
 I am a graduate student in Physics, working on cosmological data analysis based on  
 **Double Field Theory (DFT)** and Bayesian inference.
 
