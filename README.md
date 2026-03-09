@@ -13,8 +13,7 @@ I am a graduate student in Physics, working on cosmological data analysis based 
 
 - Cosmological Data Analysis  
 - Bayesian Inference & Model Comparison  
-- Markov Chain Monte Carlo (MCMC)  
-- Dark Energy & Modified Gravity  
+- Markov Chain Monte Carlo (MCMC)
 - Double Field Theory Cosmology  
 
 ---
